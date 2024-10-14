@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./assets/images/Screenshot.png)
 
 ### Links
 
-- Live Site URL: [https://oppahero.github.io/product-preview-card-component/](https://oppahero.github.io/product-preview-card-component/)
+- Live Site URL: [URL](https://flashdaniel.github.io/face-emoji-carousel-sample/)
 
 ## My process
 
